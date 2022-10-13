@@ -1,1 +1,1 @@
-# dino-clon-game
+# dino-clone-game
